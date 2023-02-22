@@ -16,7 +16,8 @@ The purpose of this project was to create a command-line application using node.
 
 ## Application Demo
 
-upcoming video.
+
+https://user-images.githubusercontent.com/111160410/220517563-9a90798d-147a-40a1-a310-682e6a3f4476.mp4
 
 
 ## Usage Instructions
@@ -42,7 +43,6 @@ const writeFile = (fileName, data) => {
 ```
 
 The function that initializes the application.
-
 ```js
 const init = () => {
     inquirer.prompt(questions)
